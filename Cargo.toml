@@ -1,0 +1,10 @@
+[package]
+name = "bobr-vm"
+version = "0.0.1"
+edition = "2024"
+description = "Early executable placeholder for Bobr virtual-machine support."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/aleksey-makarov/bobr-vm"
+readme = "README.md"
+keywords = ["bobr", "virtual-machine"]
+
